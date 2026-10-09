@@ -4,9 +4,7 @@ A web app for basic file handling: **create, read, edit, append, rename, downloa
 
 Originally a command-line menu project, rebuilt as a Streamlit web app with input validation, confirmations and error handling.
 
-<!-- Add your screenshot below: save it as screenshot.png in this folder, then remove these comment markers
-![App screenshot](screenshot.png)
--->
+![App screenshot](Screenshot.png)
 
 ## Features
 
